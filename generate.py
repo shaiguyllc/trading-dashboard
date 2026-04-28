@@ -400,7 +400,7 @@ def render_html(data, last_updated):
   </div>
   <div class="refresh-note">
     Updated: {last_updated}<br/>
-    <a href="https://github.com/YOUR_USERNAME/trading-dashboard/actions" target="_blank">Trigger manual refresh →</a>
+    <a href="https://github.com/shaiguyllc/trading-dashboard/actions" target="_blank">Trigger manual refresh →</a>
   </div>
 </div>
 
